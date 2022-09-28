@@ -78,7 +78,7 @@ The link to the Python Script for the ensemble.<br>
 
 <figure>
     <figcaption>Undersampling</figcaption>
-    <img src="/Resources/unundersampling.png" width=980 height=auto
+    <img src="/Resources/undersampling.png" width=980 height=auto
          alt="Undersampling">
 </figure> <br>
 
@@ -98,7 +98,7 @@ The link to the Python Script for the ensemble.<br>
 
 <figure>
     <figcaption>SMOTEENN</figcaption>
-    <img src="/Resources/unundersampling.png" width=970 height=auto
+    <img src="/Resources/oversampling_undersampling.png" width=970 height=auto
          alt="SMOTEENN">
 </figure> <br>
 
